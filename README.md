@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Rakul Natraj!
 
 🎓 Final Year Student | 📊 Aspiring Data Scientist | 💻 AI & Full Stack Enthusiast  
-📍 Vellakovil | 🏫 V.S.B. Engineering College (CSBS) | CGPA: 8.2  
+📍 Vellakovil | 🏫 V.S.B. Engineering College (CSBS)  
 
 ---
 
 ## 🚀 About Me
 
 I’m passionate about building intelligent systems and solving real-world problems using data and technology.  
-Currently focused on enhancing my **Data Science**, **AI**, and **Full Stack Development** skills through hands-on projects and internships.
+Currently focused on enhancing my **Data Science**, **AI**, and **Programming** skills through hands-on projects and internships.
 
 ---
 
