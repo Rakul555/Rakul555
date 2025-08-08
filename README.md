@@ -14,10 +14,9 @@ Currently focused on enhancing my **Data Science**, **AI**, and **Full Stack Dev
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
-**Libraries & Tools:** Scikit-learn, NumPy, Pandas, GeoPandas, Matplotlib, TF-IDF, Folium, Word2Vec  
-**Frameworks:** Flask, Bootstrap  
-**Tools & Platforms:** Git, GitHub, Replit, VS Code, Jupyter Notebook  
+**Languages:** Python, Java, SQL 
+**Libraries & Tools:** Scikit-learn, NumPy, Pandas, GeoPandas, Matplotlib, TF-IDF, Folium, Word2Vec   
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook  
 **Database:** MySQL  
 
 ---
