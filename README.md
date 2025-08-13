@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Rakul Natraj!
 
-🎓 Final Year Student | 📊 Aspiring Data Scientist | 💻 AI & Full Stack Enthusiast  
-📍 Vellakovil | 🏫 V.S.B. Engineering College (CSBS)  
-
+🎓 Final Year Student | 📊 Data science and AI Enthusiast
 ---
 
 ## 🚀 About Me
