@@ -1,16 +1,15 @@
-# 👋 Hello, I'm Rakul Natraj!
+#  I'm Rakul Natraj!
 
-🎓 Final Year Student | 📊 Data science and AI Enthusiast
----
+ ### Final Year Student | Data science and AI Enthusiast
 
-## 🚀 About Me
+##  About Me
 
 I’m passionate about building intelligent systems and solving real-world problems using data and technology.  
 Currently focused on enhancing my **Data Science**, **AI**, and **Programming** skills through hands-on projects and internships.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** Python, Java, SQL 
 **Libraries & Tools:** Scikit-learn, NumPy, Pandas, GeoPandas, Matplotlib, TF-IDF, Folium, Word2Vec   
@@ -19,24 +18,24 @@ Currently focused on enhancing my **Data Science**, **AI**, and **Programming** 
 
 ---
 
-## 💼 Projects
+## Projects
 
-- **🧠 AI Stylist**  
+- **AI Stylist**  
   Built an AI recommendation model using NLP and deep learning to suggest fashion products based on user preferences and image similarity.
 
-- **🍽️ Restaurant Analysis System**  
+- **Restaurant Analysis System**  
   Developed rating prediction, cuisine classification (TF-IDF), and location-based models (GeoPandas + Folium) on a 10K restaurant dataset.
 
-- **🛠️ EasyHire**  
+- **EasyHire**  
   A platform connecting skilled workers with customers — includes location and rating-based recommendations and profile management.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- 📈 Model tuning & cross-validation in Machine Learning  
-- 🌳 Binary Trees in DSA  
-- ⚙️ Object-Oriented Programming in Python  
+- Model tuning & cross-validation in Machine Learning  
+- Binary Trees in DSA  
+- Object-Oriented Programming in Python  
 
 ---
 
@@ -53,4 +52,6 @@ Currently focused on enhancing my **Data Science**, **AI**, and **Programming** 
 
 ---
 
-### ✨ “Code with purpose. Learn with passion. Build to impact.” ✨
+###  “Code with purpose. Learn with passion. Build to impact.”
+
+---
